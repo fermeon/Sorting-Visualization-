@@ -13,8 +13,5 @@ A web application to visualize the working of various sorting algorithms such as
 - **Deployment**: GitHub Pages via GitHub Actions
 
 ## Usage
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/sorting-algorithm-visualizer.git
-    ```
-2. Open `index.html` in your browser to run the application.
+
+1. Open `index.html` in your browser to run the application.
